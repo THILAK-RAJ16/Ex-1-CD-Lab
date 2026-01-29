@@ -77,7 +77,9 @@ int main() {
 }
 ```
 # OUTPUT
+
 <img width="1920" height="1140" alt="Screenshot 2026-01-29 112539" src="https://github.com/user-attachments/assets/dd9c8b84-7692-4909-9ad3-aa1b52572004" />
+
 <img width="1920" height="1140" alt="Screenshot 2026-01-29 112426" src="https://github.com/user-attachments/assets/8c026547-2732-49ca-a77a-6f990b844196" />
 
 # RESULT
